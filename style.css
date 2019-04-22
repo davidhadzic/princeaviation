@@ -52,7 +52,7 @@ html, body {
 
 
 
-margin-bottom:200px;
+margin-bottom:0px;
 
 	
 }
@@ -113,3 +113,8 @@ input[type=submit]:hover {
 }
 
 /* FORMA --------------------------------------*/
+
+/* CARD --------------------------------------*/
+.card-group {
+	margin-bottom: 30px;
+}
