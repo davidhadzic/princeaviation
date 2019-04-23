@@ -8,8 +8,8 @@ html, body {
 
 #mainbody{
 
-	width:65%;
-	max-width: 940px;
+	width:80%;
+	max-width: 1500px;
     margin: 0 auto;
     background-color:white;
 
@@ -66,7 +66,7 @@ text-align: justify;
 
 
 #body {
-	width:70%;
+	width:100%;
 }
 
 /* NEWS */
@@ -118,3 +118,9 @@ input[type=submit]:hover {
 .card-group {
 	margin-bottom: 30px;
 }
+/* FOOTER --------------------------------------*/
+
+#footer {
+	width: 100%;
+}
+
