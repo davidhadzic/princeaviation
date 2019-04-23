@@ -1,6 +1,62 @@
-.navbar {
-	background-color:blue;
+
+
+html, body {
+
+	background-color: grey;
 }
+
+
+#mainbody{
+
+	width:65%;
+	max-width: 940px;
+    margin: 0 auto;
+
+
+
+	
+}
+
+
+
+
+#logo-background {
+
+	background-image: url("photos/header-logo.jpg");
+
+	height: 244px;
+	width: 100%;
+
+
+	
+
+}
+.navbar {
+	
+	width: 100%;
+
+
+}
+
+
+
+.navbar-nav {
+
+	margin: 0 auto;
+
+}
+
+
+#carouselExampleIndicators {
+background-color: grey; 
+
+
+margin-bottom:200px;
+
+	
+}
+
+
 .card-body{
 
 text-align: justify;
