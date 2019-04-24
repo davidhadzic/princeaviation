@@ -173,6 +173,10 @@ background: -webkit-linear-gradient(left, #a4dad0, #a4dad0, #2E44D8);
   padding:35px;
   
 }
+footer{
+  padding:0px;
+
+}
 footer p{
 margin:5px;
 
