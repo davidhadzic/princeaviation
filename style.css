@@ -10,8 +10,8 @@ html, body {
 
 	width:75%;
 	max-width: 1500px;
-    margin: 0 auto;
-    background-color:white;
+  margin: 0 auto;
+  background-color:white;
 
 
 
@@ -72,8 +72,23 @@ text-align: justify;
 /* NEWS */
 
 #colapsee {
+margin-bottom: 50px;
 
 
+}
+
+
+
+#nekitext {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: justify;
+
+}
+
+
+#nekitext h6 {
+  font-size: 14pt;
 }
 
 
