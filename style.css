@@ -25,7 +25,7 @@ background:#E6E8E6;
 	background-image: url("photos/header-logo.jpg");
 
 	height: 244px;
-	width: 100%;
+	width: auto;
 
 
 	
@@ -172,6 +172,11 @@ background: -webkit-linear-gradient(left, #a4dad0, #a4dad0, #2E44D8);
 
   padding:35px;
   
+}
+footer p{
+margin:5px;
+
+
 }
    #mainbody {
         width:100%;
